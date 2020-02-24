@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173450801145",
+    "firebase_url": "https://speed-dating-flutter.firebaseio.com",
+    "project_id": "speed-dating-flutter",
+    "storage_bucket": "speed-dating-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173450801145:android:cc41efa95e8c555a32d728",
+        "android_client_info": {
+          "package_name": "tech.skodde.speeddating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173450801145-db1tpuqdtljimvsei73p5a3mujguqlie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6dK5qDlVZsdW__CxoGVAWl-tLRMa3UAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173450801145-db1tpuqdtljimvsei73p5a3mujguqlie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
